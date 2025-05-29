@@ -5,10 +5,7 @@ document.addEventListener("DOMContentLoaded", () => {
   // Import page-specific JavaScript
   const currentPage = window.location.pathname;
 
-  if (
-    currentPage.endsWith("command-center.html") ||
-    currentPage.endsWith("/")
-  ) {
+  if (currentPage.endsWith("index.html") || currentPage.endsWith("/")) {
     import("./command-center.js");
   } else if (currentPage.includes("warzone-updates.html")) {
     import("./warzone-updates.js");
