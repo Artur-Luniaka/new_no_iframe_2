@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "title": "Warzone Updates - Crazy Parking Jam",
+    "description": "Stay updated with the latest news and updates about Crazy Parking Jam game."
+  },
+  "newsItems": [
+    {
+      "title": "New Challenge Mode Coming Soon",
+      "date": "May 15, 2025",
+      "excerpt": "Get ready for our most challenging update yet! The new Challenge Mode will push your parking skills to the limit with time constraints, limited moves, and special obstacles. Can you become the ultimate parking master?",
+      "content": "Full article content here...",
+      "image": "./images/news-1.jpg"
+    },
+    {
+      "title": "Summer Tournament Announced",
+      "date": "May 10, 2025",
+      "excerpt": "Join our first-ever Summer Parking Tournament! Compete with players worldwide for a chance to win exclusive in-game rewards and real prizes. Registration opens next week.",
+      "content": "Full article content here...",
+      "image": "./images/news-2.jpg"
+    },
+    {
+      "title": "Version 2.5 Release Notes",
+      "date": "May 3, 2025",
+      "excerpt": "We've just released version 2.5 with improved graphics, 20 new levels, and performance optimizations. Update now to experience smoother gameplay and exciting new challenges!",
+      "content": "Full article content here...",
+      "image": "./images/news-3.jpg"
+    },
+    {
+      "title": "Community Spotlight: Level Designer Interview",
+      "date": "April 25, 2025",
+      "excerpt": "Meet the creative minds behind your favorite parking puzzles! In this interview, our lead level designer shares insights into the process of creating challenging yet solvable parking scenarios.",
+      "content": "Full article content here...",
+      "image": "./images/news-4.jpg"
+    }
+  ]
+}
