@@ -281,7 +281,7 @@ const websiteContent = {
     },
     map: {
       title: "Base Coordinates",
-      url: "https://www.google.com/maps?q=23+Franklin+Street,+Melbourne+VIC+3000,+Australia&output=embed",
+      url: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3151.920094245191!2d144.96025161531726!3d-37.808488379751616!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad65d4792e1161f%3A0x4a46c2fc4d30906f!2s23%20Franklin%20St%2C%20Melbourne%20VIC%203000%2C%20Australia!5e0!3m2!1sen!2sau!4v1717050700000!5m2!1sen!2sau",
     },
   },
   termsPage: {
