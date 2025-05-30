@@ -699,3 +699,14 @@ document.addEventListener("DOMContentLoaded", () => {
   loadPrivacyPolicyContent();
   handleScrollAnimation();
 });
+
+document
+  .getElementById("PrefixBarAccept")
+  .addEventListener("click", function () {
+    const cookieBar = document.querySelector(".PrefixBar-container");
+    if (cookieBar) {
+      cookieBar.style.opacity = "0";
+      cookieBar.style.transform = "translateY(20px)";
+      setTimeout(() => cookieBar.remove(), 300);
+    }
+  });
